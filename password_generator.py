@@ -79,3 +79,5 @@ for char in password_list:
 
 print(f"you password is: {password}")
 
+#code challenge from 100 Days of Code: The Complete Python Pro Bootcamp for 2023
+
