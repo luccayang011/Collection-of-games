@@ -65,3 +65,5 @@ if user == 2:
     print("You win!")
   else:
     print("Tie!")
+    
+ # it's a coding exercise from 100 Days of Code: The Complete Python Pro Bootcamp for 2023
