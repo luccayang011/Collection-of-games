@@ -24,7 +24,7 @@ def set_difficulty():
 easy_level = 10
 hard_level = 5
 # generate the true number
-real_number = random.randint(1,101)
+real_number = random.randint(1,100)
 
 # user instructions
 print("Welcome to the Number Guessing Game!")
